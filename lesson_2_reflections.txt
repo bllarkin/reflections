@@ -10,6 +10,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  You can easily use this to only add files that are impactful of a specific feature or change to the staging area, then committing only those files together in one commit.  This keeps only the relevant changes in one commit, while leaving out other possible changes that are not relevant out of the commit.  Additionally, you can compare your changes (both from the working directory to the staging area or staging area to the last commit) to ensure that the changes you are committing are all related.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
