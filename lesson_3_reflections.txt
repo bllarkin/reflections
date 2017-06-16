@@ -11,7 +11,7 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are used to copy another project from a different repository into yours so you can use it, make changes, etc. without impacting the original while still giving credit to the creator/source.  Clones are direct copies of your own repositories, typically used when pulling down a repository from a remote Git source to your local computer (though they can also be used to create copies in the same environment or from one remote source to another). Branches are divergences off the main piece of the repository that don't impact the "master" (production product) but allow you to make changes and still maintain that connection back to the production area as well as allow you, once development of a new bugfix or feature is done, to merge those changes back to production easily.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
