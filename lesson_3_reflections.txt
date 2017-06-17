@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Probably the most common method would be using something like Dropbox or Google Drive to share files between people.  This would be useful because everyone would always have the latest versions due to automatic, real-time syncing.  A problem there, though, would be potentially editing the same files at the same time without the ability to handle file conflicts via merging files.  Additionally, your file history would be full of non-meaningful versions, especially for folks that habitually save A LOT like me.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
